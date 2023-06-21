@@ -1,0 +1,8 @@
+.loading { 
+    background-color: black;
+    height: 100vh;
+    margin: auto;
+    padding-top: 300px;
+    display: flex;
+    justify-content: center;
+}
