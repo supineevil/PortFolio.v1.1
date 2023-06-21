@@ -35,9 +35,9 @@ export default function Contact() {
                             <p><a href='mailto:raunakghosh1112@gamil.com'><i className='fa fa-envelope'></i></a>raunakghosh1112@gmail.com</p>
                             <p><a href="tel:7003041502" className="ph"><i className="fa fa-phone"></i></a>7003041502</p>
                             <div className="social-icons">
-                                <a href="/"><i className="fab fa-twitter"></i></a>
-                                <a href="/"><i className="fab fa-instagram"></i></a>
-                                <a href="/"><i className="fab fa-linkedin"></i></a>
+                                <a href="https://twitter.com/_i_am_neil_"><i className="fab fa-twitter"></i></a>
+                                <a href="https://www.instagram.com/_i_am_neil_/"><i className="fab fa-instagram"></i></a>
+                                <a href="https://www.linkedin.com/in/raunak-ghosh-2a81591b6/"><i className="fab fa-linkedin"></i></a>
                                 <a href="https://github.com/supineevil"><i className="fab fa-github"></i></a>
                                 
                             </div>
