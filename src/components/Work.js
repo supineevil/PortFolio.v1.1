@@ -18,7 +18,7 @@ export default function Work() {
                 </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                    <a href="https://qrcase.netlify.app/"><img src={avatar1} class="d-block w-100" alt="..."/></a>
+                    <a href="https://text-player.netlify.app/"><img src={avatar1} class="d-block w-100" alt="..."/></a>
                     <div class="carousel-caption d-none d-md-block ">
                         <h1>Case Editor</h1>
                         <p>Can be used to change text and modify it and convert in to document</p>
