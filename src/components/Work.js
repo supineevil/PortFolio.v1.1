@@ -32,7 +32,7 @@ export default function Work() {
                     </div>
                     </div>
                     <div class="carousel-item">
-                    <a href="https://qrcase.netlify.app"><img src={avatar3} class="d-block w-100" alt="..."/></a>
+                    <a href="https://text-player.netlify.app/"><img src={avatar3} class="d-block w-100" alt="..."/></a>
                     <div class="carousel-caption d-none d-md-block white-bg">
                         <h1>QR - Code Generator</h1>
                         <p>Generate Customized QR Code</p>
